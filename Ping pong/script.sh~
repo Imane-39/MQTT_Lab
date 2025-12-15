@@ -1,0 +1,10 @@
+#!/bin/bash
+
+ehco "pong" | python3 ping_pong.py &
+echo "ping" | python3 ping_pong.py & 
+
+sleep(10) 
+
+killall python3
+
+
