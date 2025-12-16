@@ -15,7 +15,7 @@ The lab explores the **publish/subscribe paradigm** using MQTT and progressively
 
 ---
 
-## 🧰 Technologies
+## Technologies
 
 - **Language:** Python  
 - **MQTT Library:** Eclipse Paho MQTT  
@@ -25,7 +25,7 @@ The lab explores the **publish/subscribe paradigm** using MQTT and progressively
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 .
@@ -61,7 +61,7 @@ The lab explores the **publish/subscribe paradigm** using MQTT and progressively
     └── MQTT_Lab.pdf
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1️⃣ Requirements
 
@@ -73,7 +73,7 @@ The lab explores the **publish/subscribe paradigm** using MQTT and progressively
 ```bash
 pip install paho-mqtt
 ```
-## 🧪 Experiments
+##  Experiments
 
 ## I. MQTT Basics
 
@@ -173,11 +173,8 @@ pip install paho-mqtt
 
 ---
 
-## 📊 Observations
-
-- MQTT enables loose coupling and scalability  
-- Topic hierarchy simplifies routing and identification  
-- Wildcards are powerful for dynamic agent discovery  
+##  Observations  
+- Wildcards are important for dynamic agent discovery  
 - The Contract Net Protocol is effectively implemented using asynchronous messaging  
 
 ---
@@ -187,7 +184,7 @@ pip install paho-mqtt
 A detailed report including architecture explanations, execution logs, and design decisions is available in:
 
 ```text
-report/MQTT_Lab.pdf
+MQTT_Lab.pdf
 ```
 ## Authors
 - BENABDALLAH Redouane
