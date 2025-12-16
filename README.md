@@ -63,7 +63,7 @@ The lab explores the **publish/subscribe paradigm** using MQTT and progressively
 
 ##  Getting Started
 
-### 1️⃣ Requirements
+###  Requirements
 
 - Python 3.x  
 - MQTT Broker (shiftr.io or equivalent)
@@ -179,7 +179,7 @@ pip install paho-mqtt
 
 ---
 
-## 📄 Report
+##  Report
 
 A detailed report including architecture explanations, execution logs, and design decisions is available in:
 
