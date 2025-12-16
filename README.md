@@ -57,8 +57,7 @@ The lab explores the **publish/subscribe paradigm** using MQTT and progressively
 │   ├── supervisor.py
 │   └── run_all.ps1
 │
-└── report/
-    └── MQTT_Lab.pdf
+└── MQTT_Lab_report.pdf
 ```
 
 ##  Getting Started
@@ -184,7 +183,7 @@ pip install paho-mqtt
 A detailed report including architecture explanations, execution logs, and design decisions is available in:
 
 ```text
-MQTT_Lab.pdf
+MQTT_Lab_report.pdf
 ```
 ## Authors
 - BENABDALLAH Redouane
