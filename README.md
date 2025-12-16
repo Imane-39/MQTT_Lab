@@ -35,8 +35,8 @@ The lab explores the **publish/subscribe paradigm** using MQTT and progressively
 │
 ├── Ping pong/
 │   ├── ping_pong.py
-│   ├── run_ping_pong.ps1
-│   └── script.sh
+│   └── run_ping_pong.ps1
+│
 │
 ├── SensorNetwork/
 │   ├── sensor.py
@@ -72,8 +72,9 @@ The lab explores the **publish/subscribe paradigm** using MQTT and progressively
 
 ```bash
 pip install paho-mqtt
-## 🧪 Experiments
 ```
+## 🧪 Experiments
+
 ## I. MQTT Basics
 
 ### 🔹 First Contact
@@ -188,6 +189,6 @@ A detailed report including architecture explanations, execution logs, and desig
 ```text
 report/MQTT_Lab.pdf
 ```
-##Authors
+## Authors
 - BENABDALLAH Redouane
 - AL ABOUDI Imane
